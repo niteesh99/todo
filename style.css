@@ -1,0 +1,46 @@
+.underline{
+    text-decoration: line-through;
+}
+.container
+{        
+    width: 50%;
+    margin: 200 auto;
+}
+.hr1{
+    border-bottom: 2px solid black;
+
+}
+.btn{
+    float: right;
+    margin-left: 20px;
+    color: gray;
+}
+input[type="text"]
+{
+    padding: 8px 0px;
+    border-radius: 5px;
+    width: 50%;
+    float: right;
+    border-width:0px;
+    border:none;
+    outline:none;
+}
+.todo{
+    margin: 50px 0px;
+}
+body{
+    background-color: rgb(184, 175, 175);
+}
+h3{
+font-family: 'Open Sans', sans-serif;
+   text-align: center;
+   clear:both;
+   list-style:none;
+   color:black;
+    font-weight: 700;
+   font-size: 15px;
+}
+p {
+display: block;  
+margin-right:40px ;
+}
